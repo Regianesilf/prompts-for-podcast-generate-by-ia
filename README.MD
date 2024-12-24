@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.pngassets/202412231649_capa.jpeg"
+    src="assets/202412231649_capa.jpeg"
     width="300"
 />
 </p>
