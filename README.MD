@@ -67,7 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `CapCut`
 - 🤖 3. Use os prompts de artes no `Leonard.ai - Leonard.ai surgiu como uma alternativa ao MidJourney que não oferece mais as versão gratuita`
 
-##  Clique abaixo e acompanhe o resultado do nosso trabalho:
+##  Clique abaixo e acompanhe o resultado do nosso trabalho no Youtube:
 
 Podcast: Força Tarefa Python: Rumo à PF
 
