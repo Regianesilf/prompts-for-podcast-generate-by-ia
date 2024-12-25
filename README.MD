@@ -23,7 +23,11 @@
 </p>
 
 <div align="center">
-    <audio src="" controls title="Podcast editado"></audio>
+    <audio src="https://www.youtube.com/@RegianeSilf/podcasts" controls title="Podcast editado"></audio>
+</div>
+
+<div align="center">
+    <audio src="https://www.youtube.com/@RegianeSilf/podcasts" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
